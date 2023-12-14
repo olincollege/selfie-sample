@@ -4,11 +4,11 @@ This repository reveals how [DreCapone's](https://open.spotify.com/artist/4Q4IYJ
 
 
 ## Sponsors and Creators
-This is a project sponsored by [MathWorks](https://www.mathworks.com/) that showcases both their [MATLAB](https://www.mathworks.com/products/matlab.html) software and the amazing people they who use it for creative purposes.
+This is a project sponsored by [MathWorks](https://www.mathworks.com/) that showcases both their [MATLAB](https://www.mathworks.com/products/matlab.html) software and the amazing people who use it for creative purposes.
 
 Three people played around with the ideas that culminated in the Selfie Sample song:
 
-[DreVonne Hilton](https://www.linkedin.com/in/drevonne-hilton-403672199), the artist performing the Selfie Sample song, is a student at the [Olin College of Engineering](https://www.olin.edu/). He stays active in the Hip-Hop community while completing his undergraduate engineering degree in Electrical and Computer Engineering.
+[DreVonne Hilton](https://www.linkedin.com/in/drevonne-hilton-403672199), the artist performing the Selfie Sample song, is a class of 2024 student at the [Olin College of Engineering](https://www.olin.edu/). He stays active in the Hip-Hop community while completing his undergraduate engineering degree in Electrical and Computer Engineering.
 
 [Wynter Duncanson](https://www.linkedin.com/in/wynterjd) is a MathWorks employee and avid advocate for accessible STEM Education. She coached some of the ideation and coding aspects of the project.
 
